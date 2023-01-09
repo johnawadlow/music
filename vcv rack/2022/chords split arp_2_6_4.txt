@@ -1,0 +1,47 @@
+Vult: Vult Modules Free (https://modlfo.github.io/VultModules/)
+    Basal (Free)
+    Bleak (Free)
+    Nitrous (Free)
+Valley: Valley (https://valleyaudio.github.io)
+    Plateau
+VCV: VCV Fundamental (https://vcvrack.com/Fundamental)
+    Mix
+    Octave
+    SEQ 3
+    Scope
+    Sequential Switch 1 to 4
+    Split
+    VCA
+VCV: VCV Core
+    Audio 2
+    Notes
+NYSTHI: NYSTHI (https://github.com/nysthi/nysthi/releases)
+    SOUUtils
+MindMeld: MindMeld (https://www.facebook.com/MindMeldModular)
+    AuxSpanderJr
+    MixMasterJr
+ML Modules: ML Modules (https://github.com/martin-lueders/ML_modules/wiki)
+    Sequential Switch 8->1
+Instruō: Instruo (https://www.instruomodular.com/)
+    Tš-L
+    øchd
+Impromptu: Impromptu
+    Clocked
+Grande: Grande
+    Compare3
+    LFO3
+Count Modula: Count Modula (https://github.com/countmodula/VCVRackPlugins/blob/master/README.md)
+    Cable Palette
+    Clock Divider
+    Sample & Hold
+    Voltage Inverter
+chowdsp: ChowDSP (https://github.com/jatinchowdhury18/ChowDSP-VCV)
+    Credit
+Bogaudio: Bogaudio (https://github.com/bogaudio/BogaudioModules/blob/master/README.md)
+    ADSR
+    S&H
+    SWITCH
+Alright Devices: Alright Devices
+    Chronoblob2
+Aaron Static: Aaron Static (https://github.com/aaronstatic/AaronStatic_modules)
+    DiatonicCV

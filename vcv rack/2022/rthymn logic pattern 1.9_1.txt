@@ -1,0 +1,32 @@
+Valley: Valley (https://valleyaudio.github.io)
+    Plateau
+VCV: VCV Fundamental (https://vcvrack.com/Fundamental)
+    LFO
+    Scope
+    VCA
+    VCA Mix
+VCV: VCV Core
+    Audio 2
+MindMeld: MindMeld (https://www.facebook.com/MindMeldModular)
+    AuxSpanderJr
+    MixMasterJr
+Instruō: Instruo (https://www.instruomodular.com/)
+    eãs
+    øchd
+Impromptu: Impromptu
+    Clocked
+Count Modula: Count Modula (https://github.com/countmodula/VCVRackPlugins/blob/master/README.md)
+    Sample & Hold
+chowdsp: ChowDSP (https://github.com/jatinchowdhury18/ChowDSP-VCV)
+    Credit
+Bogaudio: Bogaudio (https://github.com/bogaudio/BogaudioModules/blob/master/README.md)
+    OFFSET
+    RGATE
+    STACK
+    SWITCH
+    VCA
+Audible Instruments: Audible Instruments (https://vcvrack.com/AudibleInstruments)
+    Bernoulli Gate
+    Resonator
+Alright Devices: Alright Devices
+    Chronoblob2

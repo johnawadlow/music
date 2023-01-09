@@ -1,0 +1,39 @@
+Valley: Valley (https://valleyaudio.github.io)
+    Plateau
+VCV: VCV Fundamental (https://vcvrack.com/Fundamental)
+    Random
+    SEQ 3
+    Scope
+    Sequential Switch 4 to 1
+    VCA
+VCV: VCV Core
+    Audio 2
+MindMeld: MindMeld (https://www.facebook.com/MindMeldModular)
+    AuxSpanderJr
+    MixMasterJr
+ML Modules: ML Modules (https://github.com/martin-lueders/ML_modules/wiki)
+    Quantum
+Instruō: Instruo (https://www.instruomodular.com/)
+    øchd
+Impromptu: Impromptu
+    Clocked
+HetrickCV: HetrickCV (https://github.com/mhetrick/hetrickcv)
+    Random Gates
+Geodesics: Geodesics (https://www.pyer.be/geodesics.html)
+    Energy
+Frozen Wasteland: Frozen Wasteland (https://github.com/almostEric/FrozenWasteland/blob/master/README.md)
+    Drunken Rampage
+Count Modula: Count Modula (https://github.com/countmodula/VCVRackPlugins/blob/master/README.md)
+    8 x 16 Gate Sequencer
+    Chances - bernoulli gate
+    Clock Divider
+chowdsp: ChowDSP (https://github.com/jatinchowdhury18/ChowDSP-VCV)
+    Credit
+Bogaudio: Bogaudio (https://github.com/bogaudio/BogaudioModules/blob/master/README.md)
+    1:8
+    FM-OP
+    MULT
+Audible Instruments: Audible Instruments (https://vcvrack.com/AudibleInstruments)
+    Resonator
+Alright Devices: Alright Devices
+    Chronoblob2

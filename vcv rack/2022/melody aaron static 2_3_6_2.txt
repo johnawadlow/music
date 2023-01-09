@@ -1,0 +1,44 @@
+unless games: unless modules (https://gitlab.com/unlessgames/unless_modules)
+    pre-muter
+Valley: Valley (https://valleyaudio.github.io)
+    Plateau
+VCV: VCV Recorder
+    Recorder
+VCV: VCV Fundamental (https://vcvrack.com/Fundamental)
+    LFO
+    Octave
+    SEQ 3
+    Scope
+    VCA
+VCV: VCV Core
+    Audio 2
+    MIDI to CV
+Squinky Labs: Squinky Labs (https://github.com/kockie69/SquinkyVCV-main/blob/master/README.md)
+    Formants
+    Shaper
+NYSTHI: NYSTHI (https://github.com/nysthi/nysthi/releases)
+    HotTuna TUNER
+MindMeld: MindMeld (https://www.facebook.com/MindMeldModular)
+    AuxSpanderJr
+    MixMasterJr
+Instruō: Instruo (https://www.instruomodular.com/)
+    øchd
+Impromptu: Impromptu
+    Clocked
+Geodesics: Geodesics (https://www.pyer.be/geodesics.html)
+    Energy
+Count Modula: Count Modula (https://github.com/countmodula/VCVRackPlugins/blob/master/README.md)
+    Chances - bernoulli gate
+    Sample & Hold
+chowdsp: ChowDSP (https://github.com/jatinchowdhury18/ChowDSP-VCV)
+    Credit
+Bogaudio: Bogaudio (https://github.com/bogaudio/BogaudioModules/blob/master/README.md)
+    ADSR
+    FM-OP
+Alright Devices: Alright Devices
+    Chronoblob2
+Aaron Static: Aaron Static (https://github.com/aaronstatic/AaronStatic_modules)
+    ChordCV
+    DiatonicCV
+    RandomNoteCV
+    ScaleCV

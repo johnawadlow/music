@@ -1,0 +1,26 @@
+Valley: Valley (https://valleyaudio.github.io)
+    Plateau
+VCV: VCV Recorder
+    Recorder
+VCV: VCV Fundamental (https://vcvrack.com/Fundamental)
+    Random
+    Scope
+    Sequential Switch 4 to 1
+    VCA
+VCV: VCV Core
+    Audio 2
+MindMeld: MindMeld (https://www.facebook.com/MindMeldModular)
+    AuxSpanderJr
+    MixMasterJr
+JW-Modules: JW-Modules (https://github.com/jeremywen/JW-Modules)
+    NoteSeq16
+Instruō: Instruo (https://www.instruomodular.com/)
+    øchd
+Impromptu: Impromptu
+    Clocked
+chowdsp: ChowDSP (https://github.com/jatinchowdhury18/ChowDSP-VCV)
+    Credit
+Audible Instruments: Audible Instruments (https://vcvrack.com/AudibleInstruments)
+    Resonator
+Alright Devices: Alright Devices
+    Chronoblob2

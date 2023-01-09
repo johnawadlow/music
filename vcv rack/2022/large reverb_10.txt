@@ -1,0 +1,44 @@
+
+searched web found https://www.reddit.com/r/vcvrack/comments/kplixc/ambient_parallel_reverb_aka_super_slooosh/
+
+
+Vult: Vult Modules Free (https://modlfo.github.io/VultModules/)
+    Stabile (Free)
+Valley: Valley (https://valleyaudio.github.io)
+    Feline
+    Plateau
+VCV: VCV Fundamental (https://vcvrack.com/Fundamental)
+    ADSR
+    Quantizer
+    SEQ 3
+    Sequential Switch 4 to 1
+    VCA
+    VCA Mix
+VCV: VCV Core
+    Audio 8
+NYSTHI: NYSTHI (https://github.com/nysthi/nysthi/releases)
+    Stereo Chorus and Tremolo
+MindMeld: MindMeld (https://www.facebook.com/MindMeldModular)
+    AuxSpanderJr
+    MixMasterJr
+ML Modules: ML Modules (https://github.com/martin-lueders/ML_modules/wiki)
+    Arpeggiator
+Instruō: Instruo (https://www.instruomodular.com/)
+    Tš-L
+    øchd
+Impromptu: Impromptu
+    Clocked
+Count Modula: Count Modula (https://github.com/countmodula/VCVRackPlugins/blob/master/README.md)
+    Offset Generator
+    Quad Trace Oscilloscope
+chowdsp: ChowDSP (https://github.com/jatinchowdhury18/ChowDSP-VCV)
+    Credit
+Bogaudio: Bogaudio (https://github.com/bogaudio/BogaudioModules/blob/master/README.md)
+    S&H
+Audible Instruments: Audible Instruments (https://vcvrack.com/AudibleInstruments)
+    Resonator
+Alright Devices: Alright Devices
+    Chronoblob2
+Aaron Static: Aaron Static (https://github.com/aaronstatic/AaronStatic_modules)
+    DiatonicCV
+    ScaleCV
